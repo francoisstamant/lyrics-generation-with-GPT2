@@ -1,3 +1,3 @@
 # lyrics-generation-with-GPT2
 
-School project
+School project...more information to come
